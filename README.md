@@ -30,5 +30,5 @@ Welcome to my portfolio repository! This page shares my academic background, tec
 
 ## 📩 Connect With Me
 
-* **GitHub:** [My GitHub Profile](https://github.com/YOUR-USERNAME)
-* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
+* **GitHub:** [My GitHub Profile](https://github.com/YOUR-USERNAME](https://github.com/FaridGhazali12))
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/farid-ghazali-00ab48429?utm_source=share_via&utm_content=profile&utm_medium=member_android))
